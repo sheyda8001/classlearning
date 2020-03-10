@@ -1,2 +1,2 @@
 # classlearning
-just learning git hub its not a real program
+just learning gi   t hub its not a real program
